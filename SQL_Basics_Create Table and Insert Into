@@ -1,4 +1,3 @@
-
 Table 1 Query:
 Create Table EmployeeDemographics 
 (EmployeeID int, 
